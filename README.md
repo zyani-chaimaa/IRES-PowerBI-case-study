@@ -21,12 +21,28 @@ techniques used, and the public deliverable published by IRES.
 ---
 
 ## 🛠️ Skills & Techniques demonstrated
-- Power BI (data modeling, DAX, Power Query)
-- KPI & metric design for strategic reporting
-- Dashboards for policy audiences: trends, comparisons, and narrative 
-visuals
-- Data cleaning & transformation (Power Query / external preprocessing)
-- Versioning and publishing workflows for institutional reporting
+
+### 🧩 Project Data Architecture & Process Overview
+Developed a **centralized data analytics system** tracking more than **200 strategic indicators** measuring Morocco’s international positioning across economic, social, and institutional dimensions.
+
+### 🔹 Data Integration & Warehouse Design
+Collected data from multiple **official sources** — IMF, World Bank, UNICEF, UNESCO, Bank Al-Maghrib, UNDP, FAO, and national statistics offices — into a **centralized data warehouse**.
+
+The model included:
+- A **fact table** for indicator measurements  
+- **Dimension tables** for indicators, themes, and data sources  
+- Supporting tables for definitions and analytical commentary  
+
+This enabled **automation, scalability, and traceability** of each data update.
+
+### 🔹 Automation & Power BI Integration
+- Power BI connected directly to the data warehouse for **automated refreshes**  
+- Incremental data loading reduced refresh times significantly  
+- Analytical comment tables added qualitative context alongside metrics  
+
+### 🔹 Simplified Data Model
+```text
+Indicators ───▶ Measurements ───▶ Analysis_Comments ───▶ Definitions
 
 ---
 
