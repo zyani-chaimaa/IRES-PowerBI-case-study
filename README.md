@@ -1,7 +1,7 @@
 # Strategic Dashboard for IRES — Public Case Study
 
 **Project:** Tableau de Bord Stratégique — 12ᵉ édition (IRES)  
-**Role:** Power BI Developer / Data Visualization & Modelling  
+**Role:** Data scientist / Data Visualization & Modelling  
 **Public deliverable:** Final report (PDF) published by IRES — see 
 official link below.
 
