@@ -55,8 +55,8 @@ for a private walkthrough or an anonymized replica.
 
 ## 📫 Contact
 **Chaimaa Zyani**  
-📧 your.email@example.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/chaimaa-zyani)  
+📧 zyanichaimaa@gmai.com
+🔗 [[LinkedIn]](https://www.linkedin.com/in/chaimaa-zyani-a49480159/)
 📄 [Portfolio](https://github.com/zyani-chaimaa/chaimaa-portfolio)
 # 
 IRES-PowerBI-case-study
