@@ -41,7 +41,7 @@ This enabled **automation, scalability, and traceability** of each data update.
 - Analytical comment tables added qualitative context alongside metrics  
 
 ### 🔹 Simplified Data Model
-```text
+
 Indicators ───▶ Measurements ───▶ Analysis_Comments ───▶ Definitions
 
 ---
