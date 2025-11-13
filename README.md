@@ -35,6 +35,9 @@ The model included:
 
 This enabled **automation, scalability, and traceability** of each data update.
 
+#### Publishing Workflow Overview
+![Publishing workflow](assets/publishing_workflow.png)
+
 ### 🔹 Automation & Power BI Integration
 - Power BI connected directly to the data warehouse for **automated refreshes**  
 - Incremental data loading reduced refresh times significantly  
